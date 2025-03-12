@@ -56,14 +56,6 @@ body {
     word-wrap: break-word;
 }
 
-.main-title {
-    font-size: 48px;
-    font-family: "Merriweather", serif;
-    font-weight: 900;
-    font-style: italic;
-    color: var(--color-white);
-}
-
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
