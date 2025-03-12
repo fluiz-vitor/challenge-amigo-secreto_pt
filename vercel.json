@@ -4,5 +4,12 @@
       "source": "/amigo-secreto(.*)",
       "destination": "/$1"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/em-construcao.html",
+      "permanent": false
+    }
   ]
 }
