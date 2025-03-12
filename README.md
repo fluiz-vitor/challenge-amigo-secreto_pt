@@ -2,6 +2,8 @@
 
 Esse é um projetinho simples para ajudar a organizar seu amigo secreto! Com ele, você pode adicionar nomes a uma lista e sortear um participante aleatório.
 
+🔗 **Teste [aqui!](https://luizvitor.com.br/amigo-secreto)**
+
 ## 🚀 Como usar
 
 1. Digite o nome de um amigo no campo de entrada.
@@ -13,12 +15,16 @@ Esse é um projetinho simples para ajudar a organizar seu amigo secreto! Com ele
 
 - Impedir nomes duplicados.
 - Permitir remover nomes da lista.
+- Exibição de alerta ao tentar adicionar um nome repetido.
+- Design responsivo para melhor experiência em dispositivos móveis.
 
 ## 📂 Estrutura do projeto
-
-- `index.html` → Estrutura da página.
-- `style.css` → Estilos do site.
-- `app.js` → Funcionalidades interativas do projeto.
+```plaintext
+📁 amigo-secreto
+│── index.html  → Estrutura da página.
+│── style.css   → Estilos do site.
+│── app.js      → Funcionalidades interativas do projeto.
+```
 
 ## ⚡ Tecnologias usadas
 
@@ -27,4 +33,3 @@ Esse é um projetinho simples para ajudar a organizar seu amigo secreto! Com ele
 - JavaScript
 
 Divirta-se com seu amigo secreto! 🎁😃
-
