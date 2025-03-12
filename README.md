@@ -16,6 +16,7 @@ Esse é um projetinho simples para ajudar a organizar seu amigo secreto! Com ele
 - Impedir nomes duplicados.
 - Permitir remover nomes da lista.
 - Alerta ao tentar adicionar um nome repetido.
+- Design responsivo em dispositivos mobile.
 
 ## 📂 Estrutura do projeto
 ```plaintext
