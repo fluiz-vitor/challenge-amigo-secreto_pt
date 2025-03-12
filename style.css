@@ -49,6 +49,13 @@ body {
     width: 100%;
 }
 
+
+.main-title {
+    font-size: 8vw;
+    text-align: center;
+    word-wrap: break-word;
+}
+
 .main-title {
     font-size: 48px;
     font-family: "Merriweather", serif;
