@@ -54,6 +54,7 @@ body {
     font-size: 8vw;
     font-family: "Merriweather", serif;
     text-align: center;
+    max-font-size: 48px;
     word-wrap: break-word;
     font-style: italic;
     color: var(--color-white);
