@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/amigo-secreto",
-      "destination": "/"
+      "source": "/amigo-secreto(.*)",
+      "destination": "/$1"
     }
   ]
 }
