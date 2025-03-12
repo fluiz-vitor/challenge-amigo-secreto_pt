@@ -52,8 +52,11 @@ body {
 
 .main-title {
     font-size: 8vw;
+    font-family: "Merriweather", serif;
     text-align: center;
     word-wrap: break-word;
+    font-style: italic;
+    color: var(--color-white);
 }
 
 .section-title {
