@@ -25,7 +25,6 @@ Esse é um projetinho simples para ajudar a organizar seu amigo secreto! Com ele
 ## 🎈 Melhorias futuras
 
 - Permitir remover nomes da lista.
-- Criar um layout mais estilizado.
 
 Divirta-se com seu amigo secreto! 🎁😃
 
