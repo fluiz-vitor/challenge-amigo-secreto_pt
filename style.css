@@ -160,3 +160,16 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-delete {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.icon-trash {
+    width: 20px;
+    height: 20px;
+}
+
