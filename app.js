@@ -27,8 +27,20 @@ function atualizarLista() {
     amigos.forEach((amigo, index) => {
         let li = document.createElement("li");
         li.textContent = amigo;
+
+        let botaoExcluir = document.createElement("button");
+        botaoExcluir.classList.add("button-delete");
+        botaoExcluir.innerHTML = `<img src='assets/trash.png' alt='Excluir' class='icon-trash'>`;
+        botaoExcluir.onclick = () => removerAmigo(index);
+
+        li.appendChild(botaoExcluir);
         listaAmigos.appendChild(li);
     });
+}
+
+function removerAmigo(index) {
+    amigos.splice(index, 1);
+    atualizarLista();
 }
 
 function sortearAmigo() {
